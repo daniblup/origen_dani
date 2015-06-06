@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 
+  season: 
+  synopsis: MyText
+  serie_id: 
+
+two:
+  number: 
+  season: 
+  synopsis: MyText
+  serie_id: 
